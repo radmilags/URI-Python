@@ -12,6 +12,6 @@ elif m1 >= 5.0 and m1 <= 6.9:
     print("Aluno em exame.")
     nf = float(input())
     mf = (nf+m1)/2
-    if mf 
+    # if mf fazer + tarde
 else:
     print("Aluno aprovado.")
